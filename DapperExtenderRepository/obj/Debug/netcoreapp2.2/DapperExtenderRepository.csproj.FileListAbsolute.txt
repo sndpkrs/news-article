@@ -1,0 +1,9 @@
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\bin\Debug\netcoreapp2.2\DapperExtenderRepository.deps.json
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\bin\Debug\netcoreapp2.2\DapperExtenderRepository.dll
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\obj\Debug\netcoreapp2.2\DapperExtenderRepository.csproj.CoreCompileInputs.cache
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\obj\Debug\netcoreapp2.2\DapperExtenderRepository.AssemblyInfoInputs.cache
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\obj\Debug\netcoreapp2.2\DapperExtenderRepository.AssemblyInfo.cs
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\bin\Debug\netcoreapp2.2\DapperExtenderRepository.pdb
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\obj\Debug\netcoreapp2.2\DapperExtenderRepository.csprojAssemblyReference.cache
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\obj\Debug\netcoreapp2.2\DapperExtenderRepository.dll
+C:\Users\deltax-lt1626l\source\repos\NewsArticle\DapperExtenderRepository\obj\Debug\netcoreapp2.2\DapperExtenderRepository.pdb
